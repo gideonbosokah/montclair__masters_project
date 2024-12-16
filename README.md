@@ -1,4 +1,4 @@
-# :red*square: RapidScan - \_The Multi-Tool Web Vulnerability Scanner*
+# The Multi-Tool Web Vulnerability Scanner*
 
 \_**RapidScan has been ported to Python3**.
 
