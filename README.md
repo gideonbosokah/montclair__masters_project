@@ -1,6 +1,6 @@
 # The Multi-Tool Web Vulnerability Scanner*
 
-\_**RapidScan has been ported to Python3**.
+**RapidScan has been ported to Python3**.
 
 ## Evolution:
 
